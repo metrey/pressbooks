@@ -14,7 +14,7 @@ msgstr ""
 
 #: admin/pb-admin-customcss.php:18 admin/templates/custom-css.php:27
 msgid "Edit CSS"
-msgstr ""
+msgstr "កែ CSS"
 
 #: admin/pb-admin-customcss.php:60
 msgid ""
